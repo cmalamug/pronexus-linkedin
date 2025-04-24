@@ -1,0 +1,755 @@
+id,name,organization_id,project_id,favorite,profession,company,description,geography,profile_type_id,status,ai_assessment,ai_analysis,ai_rationale,comments,expert_network_name,cost,currency,added_expert_by_id,date_added_expert,added_call_by_id,date_added_call,meeting_start_date,meeting_end_date,paid_status,rating,linkedin_link,checked,company_size,vendors_used,manager_comments,interview_lead,note_taker,post_interview_comments,post_interview_rating,transcript,audio_file_link,notes_from_call,fraud_flag,profile_picture_link,allow_expert_storage,email,phone,source_email_id,final_status_source_email_id,final_call_date_time_source_email_id,strikes,linkedin_connection_count,survey_duration,meta_expert_id,tardy_to_call,absent_from_call,probability_of_ai_screeners,final_tardy_to_call_source_email_id,final_absent_from_call_source_email_id,linkedin_creation_date,assigned_to_id,able_to_speak_to_topics,likelihood_of_reengagement,topics_able_to_speak_to,fraud_reason,departure_time,further_info,percent_essential,percent_total,enriched_linkedin,ai_match_calculated,checked_time,separated_text,routed_to_profile_info,sub_profile_type_id,internal_status
+ecb4c398-c00f-41a8-b2ee-17b9203d9df3,Marcus Reed,c988949f-d1ff-11ef-9e50-9afa7bdc3275,786b7b2f-ece7-4574-9994-2f0762b53f6b,false,Freelance E-commerce Strategist,ASOS,"Former Director of Omnichannel Marketing at ASOS, Marcus Reed is now a Freelance E-commerce Strategist with extensive experience in customer experience initiatives, personalization, and omnichannel integration. He has a proven track record in shaping digital customer journeys and improving customer engagement.",Europe/London,094b8e89-d919-44b0-9de2-ac156514b9df,Sourced,0,,,,test,2.25,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:36:53.070335,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,a31e910e-14a0-42a6-88f2-f6c03fff0b6b,,,0,,,70bf5418-9a56-49d1-bd91-f20c59b69ee2,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"Marcus Reed | angle E-com CX Project | 2.25 credits per hour
+Former Director of Omnichannel Marketing at ASOS, now Freelance E-commerce Strategist
+Feb 2010 – Present
+Core Responsibilities:
+Spearheaded multiple customer experience initiatives focused on personalization and omnichannel integration.
+Final decision maker in shaping the digital customer journey for major retail campaigns.
+Key Achievements:
+Implemented a cross-channel personalization solution that improved customer engagement by 22%.
+Developed a unified analytics framework to track and optimize key CX metrics.
+Screening Questions:
+Q: Are you responsible for shaping the overall customer experience strategy?
+A: Yes, I manage the end-to-end digital customer engagement strategy.
+Q: Have you implemented any major customer engagement initiatives in the last year?
+A: Yes, my team rolled out an innovative personalization project that drove significant results.
+Q: What metrics are most critical when evaluating customer satisfaction?
+A: I focus on conversion rates, NPS, and customer retention.
+Availability:
+Timezone: Europe/London (GMT+0)
+Monday – Friday: 9am – 5pm
+Additional Insights:
+Extensive experience advising both direct-to-consumer brands and established retail chains.
+Regularly collaborates with data science teams to refine customer insights and strategic decision-making.",true,,
+2cb7b662-7837-47d4-88f9-d3583de921e2,Justin Carter,c988949f-d1ff-11ef-9e50-9afa7bdc3275,786b7b2f-ece7-4574-9994-2f0762b53f6b,false,Customer Insights Branch Manager,Certex E-commerce Solutions,"Manages customer insights and analytics for global e-commerce brands, overseeing strategic initiatives to optimize the customer journey through data-driven decisions. Deep expertise in deploying advanced analytics tools for real-time customer behavior tracking and driving digital transformation and personalized marketing campaigns.",,237ba9c3-f231-4e9e-bcb6-427e44387a99,Sourced,0,,,,test,1,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:36:15.385653,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,a31e910e-14a0-42a6-88f2-f6c03fff0b6b,,,0,,,0ff03894-afb1-4078-a0fd-99b8a55f407a,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"Hope this update is useful! We’ve just confirmed another expert for the E-commerce Customer Experience Project. Would you like to speak with Justin?
+Name: Justin Carter
+Role: Customer Insights Branch Manager at Certex E-commerce Solutions
+LinkedIn: Justin Carter
+Key Responsibilities:
+Manages customer insights and analytics for global e-commerce brands.
+Oversees strategic initiatives to optimize the customer journey through data-driven decisions.
+Bullet Points:
+Deep expertise in deploying advanced analytics tools for real-time customer behavior tracking.
+Instrumental in driving digital transformation and personalized marketing campaigns.
+Screening:
+Q: Do you lead efforts to analyze customer behavior and digital engagement data?
+A: Yes, I head the analytics team focused on actionable customer insights.
+Q: Have you used advanced analytics to drive CX improvements?
+A: Yes, our insights have directly contributed to a 20% increase in conversion rates.
+Availability:
+11/8: 9am–12pm PT or 2:00–4:00pm PT
+11/9: 10am–1pm PT
+11/10: 1:00–5:00pm PT",true,,
+9e582ee1-5eea-4a1f-b7b8-06904f345890,Olivia Bennett,c988949f-d1ff-11ef-9e50-9afa7bdc3275,786b7b2f-ece7-4574-9994-2f0762b53f6b,false,Former Director of Customer Insights,Global Retail Chain,"Managed end-to-end customer insights and data-driven strategy for a large retail chain. Experienced in developing and implementing analytics-driven customer experience improvements, and has led data-driven CX transformation initiatives.","US, UK",237ba9c3-f231-4e9e-bcb6-427e44387a99,Sourced,0,,,,test,1,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:35:45.055297,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,a31e910e-14a0-42a6-88f2-f6c03fff0b6b,,,0,,,1e60db23-e2b5-4cb3-a420-fedd5614cb34,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"#1.1 – Olivia Bennett – [CX & E-commerce Analytics]
+Former Director of Customer Insights at a Global Retail Chain (US/UK)
+Professional Background:
+Managed end-to-end customer insights and data-driven strategy for a large retail chain.
+Deep experience in developing and implementing analytics-driven customer experience improvements.
+Bullet Points:
+Part of the selection committee for digital CX tools.
+Developed a unified customer data platform that increased actionable insights by 50%.
+Experienced in both qualitative and quantitative customer behavior analysis.
+Screening Questions:
+Q: Are you responsible for analyzing customer behavior and digital engagement data?
+A: Yes, I led our data-driven CX transformation initiatives.
+Q: Have you used advanced analytics to inform customer experience improvements?
+A: Yes, our projects have significantly increased customer satisfaction and retention.
+Q: Can you share how data insights have driven strategic decisions?
+A: Detailed customer segmentation and behavioral analytics have informed targeted marketing strategies.
+Availability:
+Timezone: Europe/London (GMT+0)
+Wednesday & Thursday: 9:00am – 1:00pm",true,,
+b4f9e18e-d4ad-4afd-adaf-837887bfb62a,Andrew Thompson,c988949f-d1ff-11ef-9e50-9afa7bdc3275,786b7b2f-ece7-4574-9994-2f0762b53f6b,false,VP of Customer Experience,Leading Direct-to-Consumer Brand,"Current VP of Customer Experience with expertise in digital personalization, omnichannel marketing, and strategic digital transformation. Responsible for a 40% increase in customer satisfaction and proficient in leveraging big data and advanced analytics.",US,094b8e89-d919-44b0-9de2-ac156514b9df,Sourced,0,,,,test,1,USD,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:35:07.590201,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,a31e910e-14a0-42a6-88f2-f6c03fff0b6b,,,0,,,ecbfc1bb-c1ec-4516-92e1-89e782211e14,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"Andrew Thompson – [CX, Digital Strategy, Data Insights]
+Current VP of Customer Experience at a Leading Direct-to-Consumer Brand (US)
+Core Responsibilities:
+Oversees all facets of customer experience strategy, including digital personalization and omnichannel marketing.
+Final decision maker for major customer engagement and retention initiatives.
+Key Highlights:
+Responsible for a 40% increase in customer satisfaction through strategic digital transformation.
+Drives comprehensive metrics evaluation including NPS, conversion, and retention rates.
+Screening Questions:
+Q: Are you responsible for shaping the overall customer experience strategy?
+A: Yes, I lead the strategic vision for our customer journey.
+Q: Have you implemented major customer engagement initiatives recently?
+A: Yes, our recent digital campaign boosted engagement metrics significantly.
+Additional Bullet Points:
+Proficient in leveraging big data and advanced analytics to inform CX strategies.
+Skilled at integrating customer feedback to continuously optimize the digital retail experience.
+Availability:
+Timezone: (GMT-08:00) Los Angeles
+Tuesday: 2:00pm – 6:00pm",true,,
+eca78225-5c27-4cd5-a3d7-21468166dcd9,Ethan Rivera,c988949f-d1ff-11ef-9e50-9afa7bdc3275,786b7b2f-ece7-4574-9994-2f0762b53f6b,false,Chief Digital Strategy Officer – Customer Experience,Leading Global Retailer,"Drives the strategic vision for customer experience across global markets, oversees digital transformation initiatives, and integrates advanced personalization technologies. Extensive experience in both direct-to-consumer brands and retail chains.","US, UK, APAC",094b8e89-d919-44b0-9de2-ac156514b9df,Sourced,0,,,,test,1.75,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:34:40.032433,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,a31e910e-14a0-42a6-88f2-f6c03fff0b6b,,,0,,,8e4e412c-61eb-4bb9-91c7-4745c1c2438e,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"Ethan Rivera | angle E-com CX | alpha_circle 1.75 credits per hour
+Chief Digital Strategy Officer – Customer Experience at a Leading Global Retailer
+Nov 2022 – Present
+Responsibilities:
+Drives the strategic vision for customer experience across global markets (US, UK, APAC).
+Oversees digital transformation initiatives and integrates advanced personalization technologies.
+Key Achievements:
+Launched a personalized loyalty program that increased repeat purchases by 30%.
+Implemented an omnichannel analytics dashboard to monitor real-time customer behavior.
+Screening Questions:
+Q: Are you responsible for shaping your customer experience strategy?
+A: Yes, I am actively involved in all strategic decisions.
+Q: What major initiatives have you led recently?
+A: I led a cross-platform personalization project that drove significant engagement improvements.
+Q: Which metrics do you prioritize?
+A: Retention rates, engagement scores, and revenue per visitor.
+Availability:
+Timezone: America/New_York (EST)
+Friday: 10am – 3pm
+Additional Bullet Points:
+Extensive experience in both direct-to-consumer brands and retail chains.
+Currently evaluating new digital tools to further enhance customer journey mapping.",true,,
+f953b54f-95fd-4efa-8308-1de45ae8883d,Ms. Srikumar Sadasivam,c988949f-d1ff-11ef-9e50-9afa7bdc3275,786b7b2f-ece7-4574-9994-2f0762b53f6b,false,"Vice President, Digital Customer Experience",Leading Retail Tech Firm,"Extensive experience in integrating digital retail platforms and advanced analytics, with direct involvement in procuring and developing in-house CX solutions. Familiar with leading CRM and customer analytics platforms.",,094b8e89-d919-44b0-9de2-ac156514b9df,Sourced,0,,,,test,1.5,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:34:10.300733,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,a31e910e-14a0-42a6-88f2-f6c03fff0b6b,,,0,,,69738e64-d1ac-482b-9f8b-fa4f017cf950,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"1. Ms. Srikumar Sadasivam – Premium Expert (1.5 credits/hour)
+Vice President, Digital Customer Experience at a Leading Retail Tech Firm
+5/2023 – Present, Former Deputy General Manager | Digital Strategy at a Global E-commerce Company (1/2021 – 3/2023)
+Key Responsibilities:
+Final decision maker for customer experience technology selection and omnichannel strategy.
+Oversees end-to-end customer engagement initiatives including personalization, analytics, and data-driven marketing.
+Bullet Points:
+Extensive experience in integrating digital retail platforms and advanced analytics.
+Direct involvement in procuring and developing in-house CX solutions.
+Familiar with leading CRM and customer analytics platforms.
+Screening Questions:
+Q: Are you responsible for shaping your organization’s customer experience strategy?
+A: Yes, I lead our digital transformation and customer engagement strategies.
+Q: Have you implemented any major customer engagement initiatives recently?
+A: Yes, our latest personalization initiative improved customer satisfaction by 20%.
+Q: What metrics are most critical for evaluating customer satisfaction?
+A: NPS, conversion rates, and customer lifetime value.
+Availability (EST):
+Tue, Feb 4: 11:00am–1:30pm, 9:30pm–11:30pm
+Wed, Feb 5: 7:30am–1:30pm
+Additional Insights:
+Deep expertise in digital strategy, customer insights, and technology adoption.
+Regularly consults on emerging trends in personalization and omnichannel marketing.",true,,
+6bcd8bf9-1532-4f3b-9ec6-4a50770843b2,Marcus Patel,c988949f-d1ff-11ef-9e50-9afa7bdc3275,786b7b2f-ece7-4574-9994-2f0762b53f6b,false,Head of Customer Experience,Lazada,"Current Head of Customer Experience at Lazada, responsible for directing customer experience strategy and overseeing global omnichannel initiatives. Successfully integrated AI-driven customer segmentation and streamlined the customer journey across platforms.",APAC,094b8e89-d919-44b0-9de2-ac156514b9df,Sourced,0,,,,test,1,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:33:28.221906,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,a31e910e-14a0-42a6-88f2-f6c03fff0b6b,,,0,,,ec188928-2211-42db-8660-b2657e55da00,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"#1.4 – Marcus Patel – [CX, Omnichannel, Digital Strategy]
+Current Head of Customer Experience at Lazada (APAC, 03/2020 – Present)
+Responsibilities:
+Directs customer experience strategy and oversees global omnichannel initiatives.
+Final decision maker for personalization projects and digital innovation.
+Key Achievements:
+Successfully integrated AI-driven customer segmentation that led to a 25% increase in engagement.
+Streamlined the customer journey across Lazada’s mobile and web platforms.
+Screening Questions:
+Q: Are you responsible for shaping the overall customer experience strategy?
+A: Yes, I set the strategic vision for customer engagement at Lazada.
+Q: Have you implemented major customer initiatives in the past year?
+A: Yes, we recently deployed a cross-channel personalization platform.
+Additional Bullet Points:
+Proficient in leveraging data insights to refine customer experience.
+Strong focus on integrating customer feedback loops into digital strategy.
+Availability:
+Timezone: Asia/Singapore
+Flexible scheduling available upon request.",true,,
+d91a4faf-c94c-438e-8270-d76014648895,Samantha Chen,c988949f-d1ff-11ef-9e50-9afa7bdc3275,786b7b2f-ece7-4574-9994-2f0762b53f6b,false,Former Head of Digital Strategy,Rakuten,"Led digital transformation projects focusing on customer journey optimization in the APAC region, advised on omnichannel strategies, and played a pivotal role in scaling digital retail platforms.",APAC,094b8e89-d919-44b0-9de2-ac156514b9df,Sourced,0,,,,test,0,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:32:51.266508,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,a31e910e-14a0-42a6-88f2-f6c03fff0b6b,,,0,,,5995708a-547c-4f04-b6a4-4fa3dde973cf,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"Samantha Chen – Standard Expert – Availability times not yet received
+Former Head of Digital Strategy at Rakuten (APAC)
+Responsibilities & Expertise:
+Led digital transformation projects for Rakuten, focusing on customer journey optimization in the APAC region.
+Advised on omnichannel strategies and personalization tactics for large-scale e-commerce brands.
+Key Highlights:
+Expert in data-driven decision-making and cross-channel integration.
+Played a pivotal role in scaling digital retail platforms.
+Screening Questions:
+Q: What initiatives have you led to improve customer engagement?
+A: I implemented real-time personalization and unified customer data platforms.
+Q: Which metrics drive your strategy?
+A: Customer retention, average order value, and conversion rates.
+Additional Insights:
+Familiar with leading marketing automation tools and customer analytics platforms.
+Proven track record in enhancing customer satisfaction across diverse markets.",true,,
+6d0e61a0-f13d-4e5d-8c49-c8a2b4868ced,Daniel Kim,c988949f-d1ff-11ef-9e50-9afa7bdc3275,786b7b2f-ece7-4574-9994-2f0762b53f6b,false,Director of Omnichannel Marketing,ASOS,"Over 12 years of experience driving digital retail strategies at ASOS in the UK, known for pioneering innovative customer engagement tactics across web and mobile platforms. Final decision maker for multi-channel campaign strategies and experienced in deploying dynamic content personalization solutions.",UK,094b8e89-d919-44b0-9de2-ac156514b9df,Sourced,0,,,,test,1,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:32:16.308496,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,a31e910e-14a0-42a6-88f2-f6c03fff0b6b,,,0,,,aa2b95b2-01d0-48c5-95e2-4e311cb115d3,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"Daniel Kim – Candidate
+(Omnichannel & Personalization Expert)
+Director of Omnichannel Marketing at ASOS
+Biography:
+Over 12 years of experience driving digital retail strategies at ASOS in the UK.
+Known for pioneering innovative customer engagement tactics across web and mobile platforms.
+Key Bullet Points:
+Final decision maker for multi-channel campaign strategies.
+Experienced in deploying dynamic content personalization solutions.
+Screening Questions:
+Q: Are you responsible for shaping the overall customer experience strategy?
+A: Yes, I direct our omnichannel marketing efforts at ASOS.
+Q: Have you implemented major customer engagement initiatives recently?
+A: Yes, I led a cross-channel personalization project that increased engagement by 18%.
+Q: What metrics are most critical to you?
+A: Engagement rates, conversion metrics, and customer retention.
+Availability (BST):
+Today: 2:00pm–3:00pm, 4:00pm–5:00pm
+Tomorrow: 11:00am–12:00pm
+Additional Insights:
+Expertise in integrating mobile and desktop experiences for seamless customer journeys.
+Expert network 3:",true,,
+779dd2a4-40ce-4291-99d2-9cf9cbac05eb,Jessica Lee,c988949f-d1ff-11ef-9e50-9afa7bdc3275,786b7b2f-ece7-4574-9994-2f0762b53f6b,false,VP of Customer Experience & Digital Strategy Lead,Amazon,"Experienced in shaping and executing global customer engagement strategies, leading AI-driven personalization initiatives, and making final decisions on major omnichannel projects.",America/Los_Angeles (PST),094b8e89-d919-44b0-9de2-ac156514b9df,Sourced,0,,,,test,2.5,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:31:39.36868,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,a31e910e-14a0-42a6-88f2-f6c03fff0b6b,,,0,,,6f52d9a2-99e7-48ca-84fc-d92bba8065eb,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"Jessica Lee | angle E-com CX | 2.50 credits per hour
+Amazon – Former VP of Customer Experience & Digital Strategy Lead
+Jan 2014 – Present
+Responsibilities:
+Shaping and executing global customer engagement strategies across multiple digital channels.
+Leading end-to-end personalization initiatives using AI-driven tools.
+Final decision maker on all major omnichannel projects.
+Key Achievements:
+Launched an AI-powered recommendation engine that boosted conversion rates by 15%.
+Established a unified customer journey framework that improved NPS by 20 points.
+Screening Questions:
+Q: Are you responsible for shaping the overall customer experience strategy in your organization?
+A: Yes, I lead the global CX strategy for Amazon’s direct-to-consumer platforms.
+Q: Have you implemented any major customer engagement or personalization initiatives in the last year?
+A: Yes, our recent AI-powered personalization rollout has significantly enhanced customer retention.
+Q: What metrics do you find most critical when evaluating customer satisfaction?
+A: NPS, Customer Lifetime Value (CLV), and conversion rate.
+Availability:
+Timezone: America/Los_Angeles (PST)
+Monday to Wednesday: 9am – 5pm
+Additional Insights:
+Deep familiarity with omnichannel marketing strategies and digital retail innovations.
+Current customer of advanced analytics platforms and marketing automation tools.",true,,
+704fc6c5-0099-4b95-8c7d-e500db5988cb,Karen Mitchell,c988949f-d1ff-11ef-9e50-9afa7bdc3275,b0ed56b6-8219-42f7-87a6-03dee91733c4,false,Freelance Supply Chain Strategist,Volkswagen,"Former Director of Global Logistics at Volkswagen, now a freelance strategist with expertise in global supply chain resilience, risk management, technology adoption, and process optimization in manufacturing.",Europe,ba3d6137-8b9f-4c2b-97ff-7da27837a4ec,Sourced,0,,,,test,2.25,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:26:29.053082,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,3865508f-1665-4402-a75f-44d37276c675,,,0,,,e4e3baa4-683c-4ea0-927c-c204db25b145,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"Karen Mitchell | angle Supply Chain Resilience Study | 2.25 credits per hour
+Former Director of Global Logistics at Volkswagen, now Freelance Supply Chain Strategist
+Feb 2010 – Present
+Relevant Experience
+Spearheaded global supply chain resilience projects at Volkswagen.
+Expert in risk management, technology adoption, and process optimization in manufacturing.
+Open to project-based engagements.
+Screening Questions:
+Q: Are you responsible for overseeing end-to-end supply chain operations?
+A: Yes, I manage comprehensive supply chain strategies.
+Q: Have you led initiatives to enhance supply chain resilience in the past year?
+A: Yes, I introduced predictive analytics to anticipate supply disruptions.
+Q: What processes or technologies are most effective?
+A: Advanced data analytics, IoT monitoring, and agile risk management frameworks.
+Availability:
+Timezone: Europe/London (GMT+0)
+Monday – Friday: 9am – 5pm",true,,
+6c861aab-8b56-451d-80b4-901f23565c00,Justin Carter,c988949f-d1ff-11ef-9e50-9afa7bdc3275,b0ed56b6-8219-42f7-87a6-03dee91733c4,false,Supply Chain Innovation Branch Manager,Certex Manufacturing Solutions,"Expert in supply chain innovation, focusing on real-time analytics, blockchain for transparency, and automated supplier risk assessments.",,815c8a06-6b51-4f62-8ce6-f20396969ffe,Sourced,0,,,,test,850,USD,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:25:45.347251,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,3865508f-1665-4402-a75f-44d37276c675,,,0,,,217094af-9091-4ec9-8083-e62f885f379e,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"Hope this update is useful! We’ve just confirmed another expert for the Manufacturing Supply Chain Resilience Study. Would you like to speak with Justin?
+Name: Justin Carter
+Role: Supply Chain Innovation Branch Manager at Certex Manufacturing Solutions
+LinkedIn: Justin Carter
+Price: $850
+Availability:
+11/8: 9am–12pm PT or 2:00–4:00pm PT
+11/9: 10am–1pm PT
+11/10: 1:00–5:00pm PT
+Screening:
+Q: Can you describe the key processes or technologies used to mitigate supply chain risks?
+A: I see significant impact from real-time analytics, blockchain for transparency, and automated supplier risk assessments.",true,,
+192803be-5531-454b-b0ca-f543cfcf4087,Oliver Schmidt,c988949f-d1ff-11ef-9e50-9afa7bdc3275,b0ed56b6-8219-42f7-87a6-03dee91733c4,false,Independent Supply Chain Consultant,Major Automotive Manufacturer,"Former operations leader with extensive experience in supply chain process innovation, now consulting on resilience strategies for manufacturing firms.",Europe,815c8a06-6b51-4f62-8ce6-f20396969ffe,Sourced,0,,,,test,1,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:25:08.52248,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,3865508f-1665-4402-a75f-44d37276c675,,,0,,,5ac1fcc6-65ff-4add-ac58-82a91d68517b,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"#1.1 – Oliver Schmidt – [Supply Chain Innovation & Process Improvement]
+Former Director of Operations at a Leading Automotive Manufacturer (Europe)
+The specialist is a former operations leader with extensive experience in supply chain process innovation. He now consults on resilience strategies for manufacturing firms.
+Screened – Update:
+Q: How involved were you in overseeing supply chain operations?
+A: I was a key decision maker in process and technology implementations.
+Q: What new technologies have you implemented?
+A: I introduced automated inventory management and real-time supplier monitoring.
+Ratings: Operational Efficiency: 5, Technology Adoption: 4, Process Optimization: 5
+Employment History:
+Former Director of Operations at a Major Automotive Manufacturer (2012 – 2018)
+Current: Independent Supply Chain Consultant
+Availability:
+Timezone: (GMT+01:00) Central European Time
+Wednesday & Thursday: 9:00 AM – 1:00 PM",true,,
+1a90d570-c503-49ac-b5d8-912387f4e918,Emily Foster,c988949f-d1ff-11ef-9e50-9afa7bdc3275,b0ed56b6-8219-42f7-87a6-03dee91733c4,false,VP of Supply Chain Management,Hyundai,"Oversees supply chain operations and technology integration for Hyundai, focusing on agile and resilient processes. Experienced in digital tracking and predictive risk analysis.",Asia,ba3d6137-8b9f-4c2b-97ff-7da27837a4ec,Sourced,0,,,,test,1,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:24:30.358806,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,3865508f-1665-4402-a75f-44d37276c675,,,0,,,3ff64c49-3b47-4c3d-9be6-f283c84ce7b1,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,"Key Metrics: On-time delivery, inventory turnover, and cost reduction.",0,0,false,false,,"Emily Foster – [Supply Chain, Operational Excellence, Digital Transformation]
+Current VP of Supply Chain Management at Hyundai (Asia)
+This expert oversees supply chain operations and technology integration for Hyundai, ensuring agile and resilient processes in the face of global disruptions.
+Screened – Update:
+Q: Can you discuss your role in managing supply chain operations?
+A: I direct all aspects of our supply chain and logistics functions.
+Q: What initiatives have you led to enhance resilience?
+A: We implemented advanced digital tracking and predictive risk analysis tools.
+Key Metrics: On-time delivery, inventory turnover, and cost reduction.
+Availability:
+Timezone: (GMT+09:00) Seoul
+Tuesday: 2:00 PM – 6:00 PM",true,,
+8b8207d8-b138-458f-80a8-da5aa17ddc2e,Daniela Wong,c988949f-d1ff-11ef-9e50-9afa7bdc3275,b0ed56b6-8219-42f7-87a6-03dee91733c4,false,Chief Technology Officer – Supply Chain Digital Transformation,Toyota,"Specializes in the integration of digital tools for operational efficiency at Toyota, with extensive experience in technology implementation in supply chain management across Asia and global manufacturing markets.",Asia,815c8a06-6b51-4f62-8ce6-f20396969ffe,Sourced,0,,,,test,1.75,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:24:00.742743,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,3865508f-1665-4402-a75f-44d37276c675,,,0,,,64490636-40bb-46f5-90ec-1052dce1e117,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"Daniela Wong | angle Supply Chain Resilience | alpha_circle 1.75 credits per hour
+Chief Technology Officer – Supply Chain Digital Transformation at Toyota (Asia)
+Nov 2021 – Present
+Relevant Experience
+Specializes in the integration of digital tools for operational efficiency at Toyota.
+Extensive experience with technology implementation in supply chain management.
+Works across Asia and global manufacturing markets.
+Screening Questions:
+Q: Do you drive technology initiatives or process improvements within your supply chain?
+A: Yes, I lead digital transformation efforts to optimize our operations.
+Q: Have you implemented digital tools or analytics to optimize supply chain performance recently?
+A: Yes, we recently deployed a cloud-based analytics platform.
+Q: Can you share examples of how innovation has improved operational efficiency?
+A: Our new system reduced lead times by 15% and minimized disruption risks.
+Availability:
+Timezone: Asia/Tokyo (JST)
+Friday: 10am – 3pm",true,,
+f043d1bb-35b4-4700-a972-5ab37d1636c0,Robert Davis,c988949f-d1ff-11ef-9e50-9afa7bdc3275,b0ed56b6-8219-42f7-87a6-03dee91733c4,false,Senior Manager – Global Supply Chain Innovation,Ford,"Robert Davis is the Senior Manager of Global Supply Chain Innovation at Ford, leading cross-functional teams to integrate digital tools and risk management strategies across North American manufacturing hubs. He has implemented a blockchain-based tracking system for improved transparency and utilizes real-time data analytics and IoT-driven monitoring for risk mitigation.",USA,ba3d6137-8b9f-4c2b-97ff-7da27837a4ec,Sourced,0,,,,test,2,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:23:29.235531,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,3865508f-1665-4402-a75f-44d37276c675,,,0,,,acdb085a-15c4-4246-b800-c1bc5d5bd6d8,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,Prior roles in operations and logistics management.,0,0,false,false,,"1. Mr. Robert Davis (2 CU) – Premium Priced Advisor. Extra charges apply. (This call will be recorded)
+Senior Manager – Global Supply Chain Innovation
+Ford (Employer: Public)
+Advisor Location: USA
+Robert Davis is the Senior Manager of Global Supply Chain Innovation at Ford (10/2010 – Present). He leads cross-functional teams focused on integrating digital tools and risk management strategies across North American manufacturing hubs.
+Employment History:
+Ford, Senior Manager – Global Supply Chain Innovation (2010 – Present)
+Prior roles in operations and logistics management.
+Screening Questions:
+Q: Are you responsible for overseeing end-to-end supply chain operations?
+A: Yes, I manage all aspects of our supply chain network.
+Q: Have you led any initiatives focused on enhancing supply chain resilience in the past year?
+A: Yes, I implemented a blockchain-based tracking system for improved transparency.
+Q: What processes or technologies are most effective for risk mitigation?
+A: Real-time data analytics and IoT-driven monitoring.",true,,
+002beb13-fb96-4393-9202-f1f6b6ca7e58,Stefan Müller,c988949f-d1ff-11ef-9e50-9afa7bdc3275,b0ed56b6-8219-42f7-87a6-03dee91733c4,false,Head of Global Logistics,BMW,Leads BMW’s global logistics operations and is responsible for strategic supply chain initiatives amid global disruptions.,Europe,ba3d6137-8b9f-4c2b-97ff-7da27837a4ec,Sourced,0,,,,test,1,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:22:49.839094,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,3865508f-1665-4402-a75f-44d37276c675,,,0,,,bde3e606-daf7-440e-87a9-0bc16d48438f,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"#1.4 – Stefan Müller – [Supply Chain, Global Logistics, Operations]
+Current Head of Global Logistics at BMW (Europe, 03/2018 – Present)
+This expert leads BMW’s global logistics operations and is responsible for strategic supply chain initiatives amid global disruptions.
+Screened – Update:
+Q: How involved are you in overseeing supply chain operations?
+A: I’m the final decision maker for our logistics strategy.
+Q: Have you implemented resilience-enhancing initiatives recently?
+A: Yes, we recently overhauled our supplier risk assessment process.
+Ratings: End-to-end Operations: 5/5, Technology Integration: 4/5, Process Innovation: 5/5
+Employment History:
+Mar 2018 – Present, BMW – Head of Global Logistics
+Jan 2014 – Mar 2018, BMW – Director of Operations",true,,
+2942a905-6f56-4b75-8de0-4ea733721009,Isabella Chen,c988949f-d1ff-11ef-9e50-9afa7bdc3275,b0ed56b6-8219-42f7-87a6-03dee91733c4,false,Former Head of Global Logistics,Volkswagen,"Spearheaded supply chain operations for Volkswagen in Europe, expert in process optimization and risk mitigation in global manufacturing, currently consulting on supply chain resilience strategies.",Europe,ba3d6137-8b9f-4c2b-97ff-7da27837a4ec,Sourced,0,,,,test,1,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:22:08.602299,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,3865508f-1665-4402-a75f-44d37276c675,,,0,,,f2bdcacf-7d62-4221-8d91-7cd97fe0f142,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"Isabella Chen – Standard Expert – Availability times not yet received
+Former Head of Global Logistics at Volkswagen (Europe)
+Relevant Experience
+Spearheaded supply chain operations for Volkswagen in Europe.
+Expert in process optimization and risk mitigation in global manufacturing.
+Currently consulting on supply chain resilience strategies.
+Profile Questions:
+Q: What supply chain resilience projects have you led recently?
+A: I implemented a dual-sourcing strategy and real-time data integration system.
+Q: Which technologies have you found effective?
+A: IoT-based tracking and predictive analytics.
+Ratings (scale 1–5): Risk Management: 5, Process Optimization: 4, Digital Tools: 5",true,,
+46a7bc72-daca-4dac-9e8f-a81492d7505b,Marcus Lee,c988949f-d1ff-11ef-9e50-9afa7bdc3275,b0ed56b6-8219-42f7-87a6-03dee91733c4,false,Director of Operations,Ford,"Marcus has over 15 years of experience managing operations at Ford, with a strong focus on enhancing supply chain resilience in North America.",United States,ba3d6137-8b9f-4c2b-97ff-7da27837a4ec,Sourced,0,,,,test,2,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:21:39.860519,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,3865508f-1665-4402-a75f-44d37276c675,,,0,,,13dfb0d2-e84a-4694-920c-89daf380c171,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"Marcus Lee – Candidate
+(Supply Chain & Logistics Expert)
+Director of Operations at Ford
+Biography
+Geography: United States
+Credit Price: 2 credits
+Marcus has over 15 years of experience managing operations at Ford, with a strong focus on enhancing supply chain resilience in North America.
+Availability (EST):
+Today: 2:00pm – 3:00pm, 4:00pm – 5:00pm
+Tomorrow: 10:00am – 11:00am",true,,
+5face4fc-2417-402b-8b4f-48038a11e483,Laura Simmons,c988949f-d1ff-11ef-9e50-9afa7bdc3275,b0ed56b6-8219-42f7-87a6-03dee91733c4,false,VP of Supply Chain Management & Global Logistics Lead,General Motors,"Former VP of Supply Chain Management at General Motors, experienced in overseeing end-to-end operations and leading initiatives to mitigate global supply disruptions.",America/Detroit (EST),ba3d6137-8b9f-4c2b-97ff-7da27837a4ec,Sourced,0,,,,test,2.5,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:21:10.319798,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,3865508f-1665-4402-a75f-44d37276c675,,,0,,,065bebc9-1766-4f29-ad5d-5c03a20cf19b,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,Open to longer-term engagements.,0,0,false,false,,"Laura Simmons | angle Supply Chain Resilience | 2.50 credits per hour
+General Motors – Former VP of Supply Chain Management & Global Logistics Lead
+Jan 2012 – Present
+Relevant Experience
+Former VP of Supply Chain Management at General Motors.
+Oversaw end-to-end operations and led initiatives to mitigate global supply disruptions.
+Open to longer-term engagements.
+Screening Questions:
+Q: Are you responsible for overseeing end-to-end supply chain operations?
+A: Yes, I direct the complete supply chain function.
+Q: Have you led any initiatives focused on enhancing supply chain resilience within the last year?
+A: Yes, I launched a risk management framework to address global disruptions.
+Q: What processes or technologies have you found most effective in mitigating supply chain risks?
+A: Advanced analytics and real-time monitoring systems.
+Availability:
+Timezone: America/Detroit (EST)
+Monday to Wednesday: 9am – 5pm",true,,
+7b133503-772c-4b9c-bf0e-c6b36e885827,Robert Chen,c988949f-d1ff-11ef-9e50-9afa7bdc3275,e255a3f2-6a7a-4a18-a4e4-d37216284b9f,false,Freelance Renewable Energy Consultant,Ørsted,"Former Director of Sustainability Strategy at Ørsted, Robert Chen is an expert in strategic renewable projects, market adaptation, and navigating policy landscapes. He is experienced in scaling renewable technologies and is open to project-based engagements.",Europe,0f085194-c60c-43bb-939d-b2717f8be3d8,Sourced,0,,,,test,2.25,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:11:59.213327,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,27f1cd6c-2614-4c6b-82e1-9694ec6886a7,,,0,,,c5fe3700-4829-4dc1-9235-589d16c8f4e8,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"Robert Chen | angle Renewable Energy Research | 2.25 credits per hour
+Former Director of Sustainability Strategy at Ørsted, now Freelance Renewable Energy Consultant
+Feb 2011 – Present
+Relevant Experience
+Spearheaded strategic renewable projects and market adaptation initiatives at Ørsted.
+Expert in navigating policy landscapes and scaling renewable technologies.
+Open to project-based engagements.
+Screening Questions:
+Q: Are you involved in strategic decisions regarding renewable energy projects?
+A: Yes, I currently oversee our renewable project strategy.
+Q: Have you overseen the launch of new renewable initiatives in the last year?
+A: Yes, I managed the development of a cutting-edge wind energy project.
+Q: What market or policy trends influence your planning?
+A: Evolving energy policies and international renewable incentives are key factors.
+Availability:
+Timezone: Europe/London (GMT+0)
+Monday – Friday: 9am – 5pm",true,,
+e41d1c13-c0f2-4082-a25d-f369b2a297ef,Justin Nguyen,c988949f-d1ff-11ef-9e50-9afa7bdc3275,e255a3f2-6a7a-4a18-a4e4-d37216284b9f,false,Market Dynamics Branch Manager,Certex Renewable Solutions,"Justin Nguyen is knowledgeable about key market trends in renewable energy, focusing on rapid technology adoption driven by policy incentives and evolving energy regulations.",,0f085194-c60c-43bb-939d-b2717f8be3d8,Sourced,0,,,,test,850,USD,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:11:09.410233,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,27f1cd6c-2614-4c6b-82e1-9694ec6886a7,,,0,,,269c0b48-35c7-405b-9d5c-bbedc1d29ad4,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"Hope this update is useful! We’ve just confirmed another expert for the Renewable Energy Market Dynamics Research. Would you like to speak with Justin?
+Name: Justin Nguyen
+Role: Market Dynamics Branch Manager at Certex Renewable Solutions
+LinkedIn: Justin Nguyen
+Price: $850
+Availability:
+11/8: 9am–12pm PT or 2:00–4:00pm PT
+11/9: 10am–1pm PT
+11/10: 1:00–5:00pm PT
+Screening:
+Q: Can you describe the key market trends in renewable energy?
+A: I observe rapid technology adoption driven by policy incentives and evolving energy regulations across regions.",true,,
+e0edade1-343c-4f79-a263-9b218cea4126,Stefan Müller,c988949f-d1ff-11ef-9e50-9afa7bdc3275,e255a3f2-6a7a-4a18-a4e4-d37216284b9f,false,Director of Operations,Major Renewable Firm,"Former operations leader with extensive experience in renewable technology integration and market dynamics, now consulting on operational strategies for clean tech projects.",Europe,35f8450a-39f5-4e1a-a765-1b071b5299ad,Sourced,0,,,,test,1,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:10:38.693706,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,27f1cd6c-2614-4c6b-82e1-9694ec6886a7,,,0,,,ded99fdb-b056-475b-aeba-27471bc089a5,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"#1.1 – Stefan Müller – [Renewables & Clean Tech Operations]
+Former Director of Operations at a Major Renewable Firm (Europe)
+The specialist is a former operations leader with extensive experience in renewable technology integration and market dynamics. He now consults on operational strategies for clean tech projects.
+Screened – Update:
+Q: How involved were you in operational management for renewable projects?
+A: I was one of the key decision makers in operations and tech implementations.
+Q: What new technologies have you integrated?
+A: I implemented smart grid systems to optimize energy distribution.
+Ratings: Operational Efficiency: 5, Technology Integration: 4, Process Optimization: 5
+Employment History:
+Former Director of Operations at a Major Renewable Firm (2012 – 2018)
+Current: Renewable Energy Operations Consultant
+Availability:
+Timezone: (GMT+01:00) Central European Time
+Wednesday & Thursday: 9:00 AM – 1:00 PM",true,,
+342cfab6-44df-4a16-9753-d749fddcb9b5,Elena Garcia,c988949f-d1ff-11ef-9e50-9afa7bdc3275,e255a3f2-6a7a-4a18-a4e4-d37216284b9f,false,VP of Renewable Operations,NextEra Energy,"Oversees operational strategies and technology integrations for renewable projects, focusing on advanced analytics and automation systems to improve efficiency, project uptime, and cost reduction.",US,35f8450a-39f5-4e1a-a765-1b071b5299ad,Sourced,0,,,,test,1,USD,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:10:04.956944,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,27f1cd6c-2614-4c6b-82e1-9694ec6886a7,,,0,,,b8227166-3892-4efd-ad2d-a288839c5bfb,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"Elena Garcia – [Renewables, Operational Excellence, Technology Integration]
+Current VP of Renewable Operations at NextEra Energy (US)
+This expert oversees operational strategies and technology integrations for renewable projects and is the final decision maker for operational improvements.
+Screened – Update:
+Q: Can you discuss your role in managing renewable energy projects?
+A: I direct all operational aspects and technology integrations for our projects.
+Q: What key technological advancements have you implemented?
+A: Advanced analytics and automation systems have transformed our maintenance processes.
+Key Metrics: Efficiency, project uptime, and cost reduction.
+Availability:
+Timezone: (GMT-08:00) Los Angeles
+Tuesday: 2:00 PM – 6:00 PM",true,,
+dc2ccaff-8bda-4832-8a3e-cbfc4d1837f7,Ravi Kapoor,c988949f-d1ff-11ef-9e50-9afa7bdc3275,e255a3f2-6a7a-4a18-a4e4-d37216284b9f,false,Chief Technology Officer – Renewables,Global Energy Firm,"Specializes in operational technology integration for renewable projects with extensive experience in improving project efficiency using advanced energy technology. Works across North America, Europe, and select Asian markets.","North America, Europe, Asia",35f8450a-39f5-4e1a-a765-1b071b5299ad,Sourced,0,,,,test,1.75,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:09:30.533227,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,27f1cd6c-2614-4c6b-82e1-9694ec6886a7,,,0,,,7ca0bdbc-55f2-423b-ad87-54932318f1ba,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"Ravi Kapoor | angle Renewables | alpha_circle 1.75 credits per hour
+Chief Technology Officer – Renewables at a Global Energy Firm
+Nov 2021 – Present
+Relevant Experience
+Specializes in operational technology integration for renewable projects.
+Extensive experience in improving project efficiency with advanced energy tech.
+Works across North America, Europe, and select Asian markets.
+Screening Questions:
+Q: Do you manage the operational aspects or technology implementations for renewable projects?
+A: Yes, I directly oversee technology deployment and operational efficiency.
+Q: Have you integrated new technologies to improve project efficiency?
+A: Yes, we recently introduced IoT-enabled monitoring systems.
+Q: How have technological advancements impacted project outcomes?
+A: They’ve increased uptime and reduced maintenance costs by 20%.
+Availability:
+Timezone: America/Chicago (CST)
+Friday: 10am – 3pm",true,,
+a427b73a-6d45-44d7-a934-a4dac5e11298,Jonathan Reed,c988949f-d1ff-11ef-9e50-9afa7bdc3275,e255a3f2-6a7a-4a18-a4e4-d37216284b9f,false,Senior Manager – Global Energy Innovation & Market Dynamics,Ørsted,"Jonathan Reed is the Senior Manager of Global Energy Innovation at Ørsted, leading cross-functional teams focused on renewable project launches and market adaptation strategies. He oversees the international renewable portfolio and has managed the rollout of a new biomass facility.",USA,0f085194-c60c-43bb-939d-b2717f8be3d8,Sourced,0,,,,test,2,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:09:01.374997,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,27f1cd6c-2614-4c6b-82e1-9694ec6886a7,,,0,,,0cbfe96d-ddc8-4dda-a7c2-03ca9d5593e3,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"1. Mr. Jonathan Reed (2 CU) – Premium Priced Advisor. Extra charges apply. (This call will be recorded)
+Senior Manager – Global Energy Innovation & Market Dynamics
+Ørsted (Employer: Public)
+Advisor Location: USA
+Jonathan Reed is the Senior Manager of Global Energy Innovation at Ørsted (10/2014 – Present). He leads cross-functional teams focused on renewable project launches and market adaptation strategies.
+Employment History:
+Ørsted, Senior Manager – Global Energy Innovation (2014 – Present)
+Previous roles in market strategy and renewable project management.
+Screening Questions:
+Q: Are you involved in strategic decisions regarding renewable energy projects?
+A: Yes, I oversee our international renewable portfolio.
+Q: Have you overseen any new initiatives in the past 12 months?
+A: Yes, I managed the rollout of a new biomass facility.
+Q: What market or policy trends influence your planning?
+A: Shifts in international carbon policies and renewable subsidies.",true,,
+104254db-5c4f-4e16-b100-2fbe7ca959e3,Priya Desai,c988949f-d1ff-11ef-9e50-9afa7bdc3275,e255a3f2-6a7a-4a18-a4e4-d37216284b9f,false,Head of Renewable Energy,European Utility,"Directs strategic renewable energy projects and policy response initiatives, serving as the final decision maker for the renewable portfolio at a major European utility.",Europe,0f085194-c60c-43bb-939d-b2717f8be3d8,Sourced,0,,,,test,1,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:08:30.541046,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,27f1cd6c-2614-4c6b-82e1-9694ec6886a7,,,0,,,9136071d-a015-4fcf-b55b-fa22dba00be6,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"#1.4 – Priya Desai – [Renewables, Sustainability, Energy Innovation]
+Current Head of Renewable Energy at a European Utility (03/2020 – Present)
+This expert directs strategic renewable energy projects and policy response initiatives at a major European utility.
+Screened – Update:
+Q: How involved are you in strategic decisions for renewable energy projects?
+A: I’m the final decision maker for our renewable portfolio.
+Q: Have you overseen any new renewable initiatives in the past year?
+A: Yes, we recently commissioned a 250MW offshore wind farm.
+Ratings: Strategic Leadership: 5/5, Policy Adaptation: 5/5, Market Analysis: 4/5
+Employment History:
+Mar 2020 – Present, European Utility – Head of Renewable Energy
+Jan 2017 – Mar 2020, European Utility – Director of Sustainability Strategy",true,,
+c4d6383c-f06d-4e9f-becb-481286c53b5b,Marcus Chen,c988949f-d1ff-11ef-9e50-9afa7bdc3275,e255a3f2-6a7a-4a18-a4e4-d37216284b9f,false,Former Head of Energy Innovation,Leading Clean Tech Startup,Spearheaded renewable technology adoption for a fast-growing clean tech firm in Asia. Expert in scaling innovative energy solutions and navigating regional policy frameworks. Currently consulting on renewable energy market dynamics.,"Asia, Southeast Asia",0f085194-c60c-43bb-939d-b2717f8be3d8,Sourced,0,,,,test,0,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:07:59.439062,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,27f1cd6c-2614-4c6b-82e1-9694ec6886a7,,,0,,,20a5c86a-3943-4eb4-a06f-edc89fc6d2bb,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"Marcus Chen – Standard Expert – Availability times not yet received
+Former Head of Energy Innovation at a Leading Clean Tech Startup (Asia)
+Relevant Experience
+Spearheaded renewable technology adoption for a fast-growing clean tech firm in Asia.
+Expert in scaling innovative energy solutions and navigating regional policy frameworks.
+Currently consulting on renewable energy market dynamics.
+Profile Questions:
+Q: Which renewable projects have you led recently?
+A: I led the integration of wind and solar hybrid solutions in Southeast Asia.
+Q: How have policy trends influenced your strategies?
+A: Government incentives and carbon pricing adjustments have been crucial.
+Ratings (scale 1–5): Market Dynamics: 5, Policy Impact: 4, Technology Integration: 5",true,,
+dda7562b-3e3d-4644-aace-b68c98b9990c,Alexandra Liu,c988949f-d1ff-11ef-9e50-9afa7bdc3275,e255a3f2-6a7a-4a18-a4e4-d37216284b9f,false,Director of Sustainability Strategy,Ørsted,"Alexandra has over 15 years of experience in renewable energy, focusing on sustainability strategies and market adaptation at Ørsted.",Europe,0f085194-c60c-43bb-939d-b2717f8be3d8,Sourced,0,,,,test,2,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:07:25.902771,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,27f1cd6c-2614-4c6b-82e1-9694ec6886a7,,,0,,,ce769e97-0f08-41ed-8b87-0d357bdff830,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"Alexandra Liu – Candidate
+(Clean Tech & Energy Strategy Expert)
+Director of Sustainability Strategy at Ørsted
+Biography
+Geography: Europe
+Credit Price: 2 credits
+Alexandra has over 15 years of experience in renewable energy, focusing on sustainability strategies and market adaptation at Ørsted.
+Availability (CET):
+Today: 2:00pm – 3:00pm, 4:00pm – 5:00pm
+Tomorrow: 11:00am – 12:00pm",true,,
+65c7a73e-a198-445e-b0a4-8dc81a445d51,Dr. Emily Hart,c988949f-d1ff-11ef-9e50-9afa7bdc3275,e255a3f2-6a7a-4a18-a4e4-d37216284b9f,false,VP of Renewable Energy & Sustainability Strategist,NextEra Energy,"Former VP of Renewable Energy at NextEra Energy, led strategic renewable projects and navigated policy shifts in North America and Europe.","North America, Europe",0f085194-c60c-43bb-939d-b2717f8be3d8,Sourced,0,,,,test,2.5,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:06:59.347267,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,27f1cd6c-2614-4c6b-82e1-9694ec6886a7,,,0,,,a5ada2a5-f390-493a-9ca5-e0ac1688ee18,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"Dr. Emily Hart | angle Renewables | 2.50 credits per hour
+NextEra Energy – Former VP of Renewable Energy & Sustainability Strategist
+Jan 2010 – Present
+Relevant Experience
+Former VP of Renewable Energy at NextEra Energy.
+Led strategic renewable projects and navigated policy shifts in North America and Europe.
+Open to longer-term engagements.
+Screening Questions:
+Q: Are you involved in strategic decisions regarding renewable energy projects?
+A: Yes, I oversee all major strategic initiatives.
+Q: Have you overseen the launch of new renewable energy initiatives in the past 12 months?
+A: Yes, I launched a 300MW solar-plus-storage project last quarter.
+Q: What key market or policy trends have influenced your planning recently?
+A: Recent tax incentives and evolving carbon regulations have been pivotal.
+Availability:
+Timezone: America/New_York (EST)
+Monday to Wednesday: 9am – 5pm",true,,
+c07a7079-0657-4603-9530-4ad2688daf2c,Dr. Kevin Liu,c988949f-d1ff-11ef-9e50-9afa7bdc3275,04049c5d-99fb-401e-a346-1975413934d9,false,Freelance Health AI Consultant,University Hospitals,Former Director of Clinical Innovation with expertise in AI adoption projects in clinical diagnostics and patient care. Experienced in integrating AI into complex healthcare environments and leading AI integration projects with improvements in workflow efficiency.,Europe/London,8fd49836-de88-4b1b-86b9-c98160b6e093,Sourced,0,,,,test,2.25,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:03:07.273871,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,2adc0a39-f34c-4110-a9cd-da0701097b8f,,,0,,,52d45d9a-9a0d-43a6-b2a6-13b9c0f36d90,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"Dr. Kevin Liu | angle Health AI Implementation | 2.25 credits per hour
+Former Director of Clinical Innovation at University Hospitals, now Freelance Health AI Consultant
+Feb 2011 – Present
+Relevant Experience
+Spearheaded AI adoption projects in clinical diagnostics and patient care.
+Expert in integrating AI into complex healthcare environments.
+Open to project-based engagements.
+Screening Questions:
+Q: Are you involved in selecting or implementing AI solutions in healthcare?
+A: Yes, I have direct oversight of multiple AI projects.
+Q: Have you led AI integration projects in the past year?
+A: Yes, with demonstrable improvements in workflow efficiency.
+Q: Can you provide insights into key benefits and obstacles with AI technologies?
+A: I have experienced significant operational improvements along with challenges in system interoperability.
+Availability:
+Timezone: Europe/London (GMT+0)
+Monday – Friday: 9am – 5pm",true,,
+b90ca085-ea28-4a04-8241-e3a17e9f8cf3,Justin Ford,c988949f-d1ff-11ef-9e50-9afa7bdc3275,04049c5d-99fb-401e-a346-1975413934d9,false,AI Strategy Branch Manager,Certex Health Solutions,"AI Strategy Branch Manager at Certex Health Solutions with insights into the competitive landscape for AI in healthcare, focusing on adoption rates and operational efficiency.",,66c1844c-344f-4a2f-a355-cc81eb05c751,Sourced,0,,,,test,850,USD,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:02:22.278168,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,2adc0a39-f34c-4110-a9cd-da0701097b8f,,,0,,,c6e5a328-f3fb-4df2-95f2-4b459e459228,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"Hi Alex,
+Hope this update is useful! We’ve just confirmed another expert for the Healthcare AI Implementation Survey. Would you like to speak with Justin?
+Name: Justin Ford
+Role: AI Strategy Branch Manager at Certex Health Solutions
+LinkedIn: Justin Ford
+Price: $850
+Availability:
+11/8: 9am–12pm PT or 2:00–4:00pm PT
+11/9: 10am–1pm PT
+11/10: 1:00–5:00pm PT
+Screening:
+Q: Can you describe the competitive landscape for AI in healthcare?
+A: I observe varied adoption rates between large hospital networks and innovative startups, with significant benefits in operational efficiency.",true,,
+3b9bbec8-e8ac-4f8a-8589-5cfca579e589,Dr. Ingrid Müller,c988949f-d1ff-11ef-9e50-9afa7bdc3275,04049c5d-99fb-401e-a346-1975413934d9,false,Director of Digital Transformation,University Hospitals,"Former leader in digital health strategy with extensive experience implementing AI in clinical settings. Consults on AI integration and data strategy, with expertise in diagnostics, patient care, and operational data systems.",Europe,66c1844c-344f-4a2f-a355-cc81eb05c751,Sourced,0,,,,test,1,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:01:49.691179,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,2adc0a39-f34c-4110-a9cd-da0701097b8f,,,0,,,cf5f5738-398a-43d3-b453-63d2c91b81e2,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,2021-01-01 05:00:00+00,,0,0,false,false,,"#1.1 – Dr. Ingrid Müller – [AI & Healthcare Data]
+Former Director of Digital Transformation at University Hospitals (Europe, 04/2015 – 01/2021)
+The specialist is a former leader in digital health strategy with extensive experience implementing AI in clinical settings. She now consults on AI integration and data strategy.
+Screened – Update:
+Q: How involved were you in selecting AI-based solutions?
+A: I was one of multiple decision-makers in AI projects.
+Q: Which healthcare areas can you discuss?
+A: I can speak to diagnostics, patient care, and operational data systems.
+Ratings: AI Adoption: 4, Clinical Workflow Integration: 5, Data Strategy: 5
+Employment History:
+Apr 2015 – Jan 2021, University Hospitals – Director of Digital Transformation
+Current: Health AI Consultant (Freelance)
+Availability:
+Timezone: (GMT+01:00) Central European Time
+Wednesday & Thursday: 9:00 AM – 1:00 PM",true,,
+3270c5d4-cf76-46bf-a5ed-4d2f9c40d98c,Dr. Michael Reyes,c988949f-d1ff-11ef-9e50-9afa7bdc3275,04049c5d-99fb-401e-a346-1975413934d9,false,Chief Medical Information Officer,Stanford Health,"Dr. Michael Reyes oversees global AI strategy for patient care innovation and is the final decision maker for clinical technology investments. He leads digital health strategies and AI vendor evaluations, focusing on AI diagnostics, patient management systems, and operational analytics.",US,8fd49836-de88-4b1b-86b9-c98160b6e093,Sourced,0,,,,test,1,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:01:07.806717,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,2adc0a39-f34c-4110-a9cd-da0701097b8f,,,0,,,741ed127-9a87-4ce0-9602-3b9acf59e76c,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"Dr. Michael Reyes – [AI, Clinical Transformation, Data Strategy]
+Current Chief Medical Information Officer at Stanford Health (03/2019 – Present)
+This expert, based in the US, oversees global AI strategy for patient care innovation and serves as the final decision maker for clinical technology investments.
+Screened – Update:
+Q: Can you discuss your role in AI-driven clinical transformation?
+A: I lead all digital health strategies and AI vendor evaluations.
+Q: What areas do you focus on?
+A: I cover AI diagnostics, patient management systems, and operational analytics.
+Availability:
+Timezone: (GMT-08:00) Los Angeles
+Tuesday: 2:00 PM – 6:00 PM",true,,
+0cf1a9fd-7612-4bed-a96b-cb6d65ef44a5,Ricky Patel,c988949f-d1ff-11ef-9e50-9afa7bdc3275,04049c5d-99fb-401e-a346-1975413934d9,false,Chief Information Officer – Health IT & Data Strategy,UnitedHealth Group,Specialist in AI-driven data analytics with extensive experience in integrating machine learning into operational systems. Involved in strategic IT and data initiatives across North America.,North America,66c1844c-344f-4a2f-a355-cc81eb05c751,Sourced,0,,,,test,1.75,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:00:37.329366,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,2adc0a39-f34c-4110-a9cd-da0701097b8f,,,0,,,127a9e1d-dd0d-4c32-83e0-7e1f6894d5ca,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"Ricky Patel | angle Health AI | alpha_circle 1.75 credits per hour
+Chief Information Officer – Health IT & Data Strategy at UnitedHealth Group
+Nov 2021 – Present
+Relevant Experience
+Specialist in AI-driven data analytics at UnitedHealth Group.
+Extensive experience with integrating machine learning into operational systems.
+Involved in strategic IT and data initiatives across North America.
+Screening Questions:
+Q: How involved are you in IT strategy for AI initiatives?
+A: I’m part of the executive team driving our AI roadmap.
+Q: What AI applications do you manage?
+A: I oversee AI for patient data analytics and operational efficiency.
+Q: Familiarity ratings: AI Integration: 5, Data Analytics: 5, IT Strategy: 4.
+Availability:
+Timezone: America/New_York (EST)
+Friday: 11am – 3pm",true,,
+a9017703-9069-4e75-a382-79f38640d00f,Rebecca Lang,c988949f-d1ff-11ef-9e50-9afa7bdc3275,04049c5d-99fb-401e-a346-1975413934d9,false,Senior Manager – Global Health Informatics & AI Strategy,Cleveland Clinic,"Rebecca Lang is the Senior Manager of Global Health Informatics at Cleveland Clinic, leading multi-disciplinary teams in implementing AI in clinical workflows and streamlining data strategies. She is the final decision maker on digital and AI initiatives and has led projects that significantly improved efficiency.",USA,66c1844c-344f-4a2f-a355-cc81eb05c751,Sourced,0,,,,test,2,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 21:00:07.19681,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,2adc0a39-f34c-4110-a9cd-da0701097b8f,,,0,,,c50dea6a-f7df-4d79-96dc-9ed81f544b39,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"1. Ms. Rebecca Lang (2 CU) – Premium Priced Advisor. Extra charges apply. (This call will be recorded)
+Senior Manager – Global Health Informatics & AI Strategy
+Cleveland Clinic (Employer: Public)
+Advisor Location: USA
+Rebecca Lang is the Senior Manager of Global Health Informatics at Cleveland Clinic (10/2016 – Present). She leads multi-disciplinary teams implementing AI in clinical workflows and streamlining data strategies.
+Employment History:
+Cleveland Clinic, Senior Manager – Global Health Informatics & AI Strategy (2016 – Present)
+Previous roles in healthcare IT and innovation.
+Screening Questions:
+Q: Do you oversee the strategic deployment of AI solutions in your organization?
+A: Yes, I am the final decision maker on digital and AI initiatives.
+Q: Can you provide examples of data-driven insights improving efficiency?
+A: I have led projects that cut diagnostic turnaround times by 30%.",true,,
+5f71a7e8-d0d9-45a3-9441-7e087b4187b8,Dr. Priya Nair,c988949f-d1ff-11ef-9e50-9afa7bdc3275,04049c5d-99fb-401e-a346-1975413934d9,false,Head of Clinical Innovation,NHS Trust,"Leads AI strategy and digital transformation at a major NHS Trust, focusing on diagnostics, patient care optimization, and operational AI tools.",UK,8fd49836-de88-4b1b-86b9-c98160b6e093,Sourced,0,,,,test,1,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 20:59:39.192965,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,2adc0a39-f34c-4110-a9cd-da0701097b8f,,,0,,,c4fc26f7-1d27-4c5b-83e9-abccfab34770,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"#1.4 – Dr. Priya Nair – [AI, Digital Health, Clinical Innovation]
+Current Head of Clinical Innovation at NHS Trust (UK, 03/2020 – Present)
+This expert leads AI strategy and digital transformation at a major NHS Trust.
+Screened – Update:
+Q: How involved are you in AI solution selection?
+A: I’m the final decision maker on all digital health projects.
+Q: Which clinical areas do you cover?
+A: I focus on diagnostics, patient care optimization, and operational AI tools.
+Ratings: AI Implementation: 5/5, Clinical Innovation: 5/5, Operational Efficiency: 4/5
+Employment History:
+Mar 2020 – Present, NHS Trust – Head of Clinical Innovation
+Feb 2017 – Mar 2020, NHS Trust – Director of Digital Health",true,,
+98d6da9b-3241-4045-bb62-c8bbb26a07fb,Laura Jensen,c988949f-d1ff-11ef-9e50-9afa7bdc3275,04049c5d-99fb-401e-a346-1975413934d9,false,Director of Digital Health,University Hospitals,"Directed digital transformation initiatives across European hospital networks, expert in AI-based diagnostic tools and patient monitoring systems, currently advising on clinical AI integration best practices.",Europe,8fd49836-de88-4b1b-86b9-c98160b6e093,Sourced,0,,,,test,1,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 20:59:12.795042,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,2adc0a39-f34c-4110-a9cd-da0701097b8f,,,0,,,c7d2b86b-949a-4823-87ea-597deb5ec56a,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"Laura Jensen – Standard Expert – Availability times not yet received
+Former Director of Digital Health at University Hospitals (Europe)
+Relevant Experience
+Directed digital transformation initiatives across European hospital networks.
+Expert in AI-based diagnostic tools and patient monitoring systems.
+Currently advising on clinical AI integration best practices.
+Profile Questions:
+Q: Which AI projects have you led in clinical settings?
+A: I have implemented AI for radiology and predictive patient care.
+Q: How have you addressed challenges with AI integration?
+A: By developing interoperability frameworks and robust training programs.
+Ratings (scale 1–5): Clinical AI: 5, Operational Efficiency: 4, Data Integration: 5",true,,
+fb7030e8-cdc0-4035-8a93-8a8de4533214,Dr. Andrew Carter,c988949f-d1ff-11ef-9e50-9afa7bdc3275,04049c5d-99fb-401e-a346-1975413934d9,false,Chief Digital Health Officer,Cleveland Clinic,"Dr. Carter has led AI-driven clinical projects at Cleveland Clinic for over 15 years, focusing on integrating machine learning into patient care and operational efficiency.",United States,8fd49836-de88-4b1b-86b9-c98160b6e093,Sourced,0,,,,test,2,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 20:58:43.181824,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,2adc0a39-f34c-4110-a9cd-da0701097b8f,,,0,,,bc8d1b9c-1df6-43e3-aeb7-8a3b51b1430f,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"Dr. Andrew Carter – Candidate
+(AI in Clinical Care & Digital Health Transformation Expert)
+Chief Digital Health Officer at Cleveland Clinic
+Biography
+Geography: United States
+Credit Price: 2 credits
+Dr. Carter has led AI-driven clinical projects at Cleveland Clinic for over 15 years, focusing on integrating machine learning into patient care and operational efficiency.
+Availability (EST):
+Today: 2:00pm – 3:00pm, 4:00pm – 5:00pm
+Tomorrow: 10:00am – 11:00am",true,,
+58bac28a-b152-417b-b255-12917c5e45e7,Dr. Sarah Mitchell,c988949f-d1ff-11ef-9e50-9afa7bdc3275,04049c5d-99fb-401e-a346-1975413934d9,false,Chief Medical Information Officer & Clinical Innovation Lead,Mayo Clinic,Former Chief Medical Information Officer at Mayo Clinic with experience in leading AI integration in clinical decision support systems. She has driven multiple AI initiatives in clinical workflows and recently oversaw an AI pilot in patient diagnostics.,America/Chicago,8fd49836-de88-4b1b-86b9-c98160b6e093,Sourced,0,,,,test,2.5,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 20:58:08.170405,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,2adc0a39-f34c-4110-a9cd-da0701097b8f,,,0,,,4113ecd6-262b-4383-8a61-e1c839cfb15f,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,Open to longer-term engagements.,0,0,false,false,,"Dr. Sarah Mitchell | angle Health AI | 2.50 credits per hour
+Mayo Clinic – Former Chief Medical Information Officer & Clinical Innovation Lead
+Jan 2013 – Present
+Relevant Experience
+Former Chief Medical Information Officer at Mayo Clinic.
+Led AI integration in clinical decision support systems.
+Open to longer-term engagements.
+Screening Questions:
+Q: Are you involved in selecting or implementing AI-based solutions?
+A: Yes, I have driven multiple AI initiatives in clinical workflows.
+Q: Have you led any AI integration projects in the past 12 months?
+A: Yes, I recently oversaw an AI pilot in patient diagnostics.
+Q: Can you share benefits and obstacles encountered with AI in healthcare?
+A: I have experienced improved diagnostic accuracy alongside challenges in interoperability.
+Availability:
+Timezone: America/Chicago (CST)
+Monday to Wednesday: 8am – 4pm",true,,
+1a90bacd-1263-4a86-be07-0440be52352d,John Lee,c988949f-d1ff-11ef-9e50-9afa7bdc3275,21e0b2f6-c8d0-47db-af1a-2b03ec48b69c,false,Freelance Fintech Strategist,Barclays Digital,"Former Chief Innovation Officer at Barclays Digital, John Lee is an expert in digital transformation initiatives, mobile banking solutions, and regulatory compliance frameworks. He has direct oversight on major fintech innovation projects and has successfully integrated blockchain technologies.",Europe,690cfc59-9528-4368-83ca-63d77f6dd604,Sourced,0,,,,test,2.5,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 20:52:22.613615,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,0c8c209d-6ec7-4f0c-b465-bd75e49f064f,,,0,,,ea8216e1-d28d-451b-be97-58f90f8eef98,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"John Lee | angle Fintech Digital Innovation | 2.50 credits per hour
+Former Chief Innovation Officer at Barclays Digital, now Freelance Fintech Strategist
+Feb 2010 - Present
+Relevant Experience
+Oversaw digital transformation initiatives across European financial institutions.
+Expert in mobile banking solutions and regulatory compliance frameworks.
+Open to project-based engagements.
+Screening Questions:
+Q: Are you responsible for driving digital transformation initiatives?
+A: Yes, I have direct oversight on major fintech innovation projects.
+Q: Have you managed digital banking product launches recently?
+A: Yes, with successful integration of blockchain technologies.
+Q: Can you provide insights into regulatory challenges in fintech?
+A: I have extensive experience navigating compliance in digital transformation.
+Availability:
+Timezone: Europe/London (GMT+0)
+Monday – Friday: 9am – 5pm",true,,
+38aa8aa2-7b61-4a83-90c8-45e361f1f267,Justin Monroe,c988949f-d1ff-11ef-9e50-9afa7bdc3275,21e0b2f6-c8d0-47db-af1a-2b03ec48b69c,false,Digital Payments Branch Manager,Certex Fintech Solutions,Experienced in digital payments with insights into mobile banking and blockchain-driven payment systems.,,690cfc59-9528-4368-83ca-63d77f6dd604,Sourced,0,,,,test,800,USD,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 20:51:37.783966,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,0c8c209d-6ec7-4f0c-b465-bd75e49f064f,,,0,,,94991ec0-13ad-41e8-978e-a8085b0f8fd9,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"Hi Nathan,
+Hope this call with Mark is helpful! We just confirmed one more expert. Would you like to speak with Justin?
+Name: Justin Monroe
+Role: Digital Payments Branch Manager at Certex Fintech Solutions
+LinkedIn: Justin Monroe
+Price: $800
+Availability:
+11/5: 8am–12pm PT or 3:30–5:30pm PT
+11/6: 8am–12pm PT
+11/7: 2:30pm–6pm PT
+Screening:
+Q: Can you describe the competitive landscape in digital payments?
+A: As a distributor in fintech, I observe varied innovation trends across regions with a strong focus on mobile banking and blockchain-driven payment systems.",true,,
+8f7a6e8d-4fe3-452b-863a-7971fe78e8d7,Bernd Schmidt,c988949f-d1ff-11ef-9e50-9afa7bdc3275,21e0b2f6-c8d0-47db-af1a-2b03ec48b69c,false,"Head, Global Digital Strategy",ING,"Former Head of Global Digital Strategy at ING with extensive experience in regulatory oversight and digital innovation. Advises on compliance strategies for digital banking solutions, with expertise in digital payments, mobile banking, and blockchain innovations.",New York,849f68c0-8882-48ef-b89c-3ca6009b4280,Sourced,0,,,,test,1,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 20:51:10.880906,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,0c8c209d-6ec7-4f0c-b465-bd75e49f064f,,,0,,,947303ba-ccdb-445c-b265-f07fde913745,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,2023-01-01 05:00:00+00,,0,0,false,false,,"#1.1 – Bernd Schmidt – [Blockchain & Digital Compliance]
+Former Head, Global Digital Strategy at ING (03/2019 – 01/2023)
+The specialist is a former Head of Global Digital Strategy at ING, with extensive experience in regulatory oversight and digital innovation. He now advises on compliance strategies for digital banking solutions.
+Screened – Update:
+Q: How involved were you in digital transformation decisions?
+A: I was one of multiple decision makers.
+Q: Which fintech segments can you discuss?
+A: Digital payments, mobile banking, and blockchain innovations.
+Ratings: Blockchain: 4, Mobile Banking: 5, Digital Compliance: 5
+Employment History:
+Mar 2019 – Jan 2023, ING – Head, Global Digital Strategy
+Current: Digital Strategy Advisor (Freelance)
+Availability:
+Timezone: (GMT-05:00) New York
+Wednesday & Thursday: 8:00 AM – 12:00 PM",true,,
+75f95df7-caf0-4ec6-9b68-4a03c00acb93,Ricky Singh,c988949f-d1ff-11ef-9e50-9afa7bdc3275,21e0b2f6-c8d0-47db-af1a-2b03ec48b69c,false,"Specialist Digital Innovation Architect & Chief Technology Officer, Fintech Division",Citibank,"Specialist Digital Innovation Architect with extensive experience integrating blockchain and mobile banking platforms, involved in strategic technology decisions for North American and European markets.","North America, Europe",690cfc59-9528-4368-83ca-63d77f6dd604,Sourced,0,,,,test,1.5,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 20:50:24.928921,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,0c8c209d-6ec7-4f0c-b465-bd75e49f064f,,,0,,,71988621-07ab-4d39-bf38-74112d947d65,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"Ricky Singh | angle Fintech | alpha_circle 1.50 credits per hour
+Citibank – Specialist Digital Innovation Architect & Chief Technology Officer, Fintech Division
+Nov 2022 – Present
+Relevant Experience
+Specialist Digital Innovation Architect at Citibank.
+Extensive experience integrating blockchain and mobile banking platforms.
+Involved in strategic technology decisions for North American and European markets.
+Screening Questions:
+Q: In your current role, how involved are you in digital transformation?
+A: I’m one of several decision makers.
+Q: What fintech segments can you speak to?
+A: Mobile banking, digital payments, and blockchain integration.
+Q: Familiarity ratings: Blockchain: 5, Mobile Banking: 5, Digital Payments: 4.
+Availability:
+Timezone: America/New York (EST)
+Friday: 10am – 3pm",true,,
+ea1375f8-5053-483f-8f57-2cbcf97d339a,Emily Torres,c988949f-d1ff-11ef-9e50-9afa7bdc3275,21e0b2f6-c8d0-47db-af1a-2b03ec48b69c,false,Senior Manager – Global Digital Compliance & Innovation,Bank of America,"Emily Torres is the Senior Manager of Global Digital Compliance & Innovation at Bank of America, leading teams in regulatory compliance and digital product innovation. She is the final decision maker on compliance frameworks and can speak to digital payments, mobile banking, and blockchain integration.",USA,849f68c0-8882-48ef-b89c-3ca6009b4280,Sourced,0,,,,test,2,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 20:49:53.402347,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,0c8c209d-6ec7-4f0c-b465-bd75e49f064f,,,0,,,8ffd4097-3f52-4d26-9002-a194b7875926,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"1. Ms. Emily Torres (2 CU) – Premium Priced Advisor. Extra charges apply. (This call will be recorded)
+Senior Manager – Global Digital Compliance & Innovation
+Bank of America (Employer: Public)
+Advisor Location: USA
+Emily Torres is the Senior Manager of Global Digital Compliance & Innovation at Bank of America (10/2018 – Present). She leads multi‐disciplinary teams spanning regulatory compliance and digital product innovation, ensuring secure fintech integrations.
+Employment History:
+Bank of America, Senior Manager – Global Digital Compliance & Innovation (2018 – Present)
+Previous roles in compliance and digital strategy at major financial institutions.
+Screening Questions:
+Q: Are you involved in regulatory decisions for fintech product innovations?
+A: Yes, I’m the final decision maker on compliance frameworks.
+Q: What fintech segments can you speak to?
+A: Digital payments, mobile banking, and blockchain integration.",true,,
+df73d315-0aab-417d-9cc7-ef7946fc910f,Amit Verma,c988949f-d1ff-11ef-9e50-9afa7bdc3275,21e0b2f6-c8d0-47db-af1a-2b03ec48b69c,false,Head of Digital Innovation,Barclays,"Amit Verma leads technology adoption initiatives at Barclays, overseeing digital strategy across Europe. He is the final decision maker for digital innovation projects, covering mobile banking, digital payments, and blockchain integrations.","US, Europe",690cfc59-9528-4368-83ca-63d77f6dd604,Sourced,0,,,,test,1,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 20:49:16.99032,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,0c8c209d-6ec7-4f0c-b465-bd75e49f064f,,,0,,,9c15b567-242a-4711-ad9a-b323825715be,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"#1.4 – Amit Verma – [Blockchain, Mobile Banking, Digital Payments]
+Current Head, Digital Innovation at Barclays (03/2021 – Present)
+This expert leads technology adoption initiatives at Barclays and oversees digital strategy across Europe.
+Screened – Update:
+Q: How involved are you in digital transformation decisions?
+A: I’m the final decision maker for all digital innovation projects.
+Q: What fintech segments do you cover?
+A: Mobile banking, digital payments, and blockchain integrations.
+Ratings: Blockchain: 5/5, Mobile Banking: 5/5, Digital Payments: 4/5
+Employment History:
+Mar 2021 – Present, Barclays – Head of Digital Innovation
+Feb 2019 – Mar 2021, Barclays – Senior Digital Strategist
+Amit Verma – [Blockchain, Mobile Banking, Digital Payments]
+Current Head, Digital Innovation at Barclays (03/2021 – Present)
+This expert, based in the US, oversees global digital strategy and is a final decision maker for fintech transformation initiatives.
+Screened – Update:
+Q: Can you discuss your role in digital innovation?
+A: I lead all digital strategy and vendor evaluations for emerging fintech solutions.
+Q: What segments do you cover?
+A: Mobile banking, digital payments, and blockchain.
+Availability:
+Timezone: (GMT-08:00) Los Angeles
+Friday: 2:00 PM – 6:00 PM",true,,
+79e25b5e-34cd-42ef-a807-161534da8902,Daniela Chen,c988949f-d1ff-11ef-9e50-9afa7bdc3275,21e0b2f6-c8d0-47db-af1a-2b03ec48b69c,false,Head of Digital Strategy,ING,Former Head of Digital Strategy at ING with deep expertise in mobile banking innovation and digital payments integration. Led digital transformation committees at major European banks and is a current advisor on emerging fintech trends.,Europe,690cfc59-9528-4368-83ca-63d77f6dd604,Sourced,0,,,,test,1,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 20:48:37.223263,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,0c8c209d-6ec7-4f0c-b465-bd75e49f064f,,,0,,,24bb2710-fe12-4f06-8658-a42f20bb2425,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"Daniela Chen – Standard Expert – Availability times not yet received
+Former Head of Digital Strategy at ING (12/2020 – Present), Ex-VP of Innovation at Barclays (2/2018 – 12/2020)
+Relevant Experience
+Led digital transformation committees at major European banks.
+Deep expertise in mobile banking innovation and digital payments integration.
+Current advisor on emerging fintech trends.
+Profile Questions:
+Q: Which fintech segments are you most familiar with?
+A: I specialize in mobile banking, blockchain-based payments, and digital wallet technologies.
+Q: Can you discuss your experience with evaluating emerging fintech platforms?
+A: Yes, I have overseen several vendor selections for fintech integrations.
+Ratings (scale 1–5): Blockchain: 5, Mobile Banking: 5, Digital Payments: 5",true,,
+ea65954a-cc76-4798-bd60-43c950dbcdca,Olivia Rodriguez,c988949f-d1ff-11ef-9e50-9afa7bdc3275,21e0b2f6-c8d0-47db-af1a-2b03ec48b69c,false,Head of Digital Innovation,Bank of America,"Olivia has served as Head of Digital Innovation at Bank of America for over 15 years, spearheading mobile banking and blockchain integration projects with extensive experience in compliance and regulatory innovation.",United States,690cfc59-9528-4368-83ca-63d77f6dd604,Sourced,0,,,,test,2,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 20:48:01.237246,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,0c8c209d-6ec7-4f0c-b465-bd75e49f064f,,,0,,,711cdf86-615a-48c2-a03a-acabe6ee02ee,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,,0,0,false,false,,"Olivia Rodriguez – Candidate
+(Blockchain, Mobile Banking & Digital Payments Expert)
+Head of Digital Innovation at Bank of America
+Biography
+Geography: United States
+Credit Price: 2 credits
+Olivia has served as Head of Digital Innovation at Bank of America for over 15 years. She has spearheaded mobile banking and blockchain integration projects, and she brings extensive experience in compliance and regulatory innovation.
+Availability (EST):
+Today: 1:00pm – 2:00pm, 4:00pm – 5:00pm
+Tomorrow: 10:00am – 11:00am, 1:00pm – 2:00pm",true,,
+243a78c9-d73d-4900-8a58-b8d0602427e7,Michael Adams,c988949f-d1ff-11ef-9e50-9afa7bdc3275,21e0b2f6-c8d0-47db-af1a-2b03ec48b69c,false,Chief Digital Officer,JPMorgan Chase Digital,"Former Chief Digital Officer at JPMorgan Chase Digital, currently advising on fintech innovation strategies for major banks. Experienced in driving digital transformation initiatives, launching digital banking products, and integrating emerging technologies like blockchain.",America/New York,690cfc59-9528-4368-83ca-63d77f6dd604,Sourced,0,,,,test,2.75,XXX,d4bc553b-5e34-47ef-a565-c7b03014c628,2025-03-10 20:47:25.049967,d4bc553b-5e34-47ef-a565-c7b03014c628,,,,false,,,true,,,,,,,,,,,false,,0,,,0c8c209d-6ec7-4f0c-b465-bd75e49f064f,,,0,,,968a1356-f7ad-4605-a19a-ca7fb4b2e1c3,false,false,0,,,,da80c22b-99fc-456c-ad6a-c20de94c83dc,,,,,,Open to longer-term engagements.,0,0,false,false,,"Michael Adams | angle Fintech Digital Innovation | 2.75 credits per hour
+JPMorgan Chase Digital – Former Chief Digital Officer & Head of Digital Banking Transformation
+Jan 2012 - Present
+Relevant Experience
+Former Chief Digital Officer at JPMorgan Chase Digital.
+Currently advising on fintech innovation strategies for major banks.
+Open to longer-term engagements.
+Screening Questions:
+Q: Are you responsible for driving digital transformation initiatives within your organization?
+A: Yes, I’ve led multiple digital banking product launches.
+Q: Have you overseen the launch or evolution of digital banking platforms in the past year?
+A: Yes, I directly managed recent product upgrades.
+Q: Can you discuss challenges and successes in integrating emerging technologies like blockchain?
+A: I have hands-on experience piloting blockchain integrations.
+Availability:
+Timezone: America/New York (EST, GMT-05:00)
+Monday to Wednesday: 8am – 4pm",true,,

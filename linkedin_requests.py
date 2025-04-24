@@ -6,10 +6,10 @@ from datetime import datetime
 from dateutil.relativedelta import relativedelta
 import pytz
 
-from ..utils.tag_expert import tag_expert
-from ..utils.constants import constants
-from ..utils.google_dorking import get_user_pfp, reverse_image_search
-from ..utils.backend_interaction import get_from_backend, send_to_backend
+from tag_expert import tag_expert
+from constants import constants
+# from ..utils.google_dorking import get_user_pfp, reverse_image_search
+from backend_interaction import get_from_backend, send_to_backend
 from dotenv import load_dotenv
 from typing import List, Dict, Tuple, Optional
 
@@ -149,10 +149,10 @@ def make_expert_from_linkedin(profile_url: str, user_email: str, new_request_typ
             
         expert['profilePictureLink'] = profile_data.get('profile_pic_url')
         if expert['profilePictureLink'] and 'media.licdn.com' not in expert['profilePictureLink']:
-            expert['profilePictureLink'] = get_user_pfp(name=expert['name'], company=expert['company'], linkedin_link=profile_url)
+            # expert['profilePictureLink'] = get_user_pfp(name=expert['name'], company=expert['company'], linkedin_link=profile_url)
             
         if expert['profilePictureLink'] and 'media.licdn.com' not in expert['profilePictureLink']:
-            expert['profilePictureLink'] = reverse_image_search(expert['profilePictureLink'])
+            # expert['profilePictureLink'] = reverse_image_search(expert['profilePictureLink'])
             
         if new_request_type is False:
             print('returing expert and jobs for request type false')

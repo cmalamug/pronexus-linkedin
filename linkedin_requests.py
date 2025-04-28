@@ -148,10 +148,10 @@ def make_expert_from_linkedin(profile_url: str, user_email: str, new_request_typ
             jobs.append(edu_job)
             
         expert['profilePictureLink'] = profile_data.get('profile_pic_url')
-        if expert['profilePictureLink'] and 'media.licdn.com' not in expert['profilePictureLink']:
+        # if expert['profilePictureLink'] and 'media.licdn.com' not in expert['profilePictureLink']:
             # expert['profilePictureLink'] = get_user_pfp(name=expert['name'], company=expert['company'], linkedin_link=profile_url)
             
-        if expert['profilePictureLink'] and 'media.licdn.com' not in expert['profilePictureLink']:
+        # if expert['profilePictureLink'] and 'media.licdn.com' not in expert['profilePictureLink']:
             # expert['profilePictureLink'] = reverse_image_search(expert['profilePictureLink'])
             
         if new_request_type is False:

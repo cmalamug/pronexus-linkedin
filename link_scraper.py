@@ -1,25 +1,43 @@
+from googlesearch import search
+from typing import List
+import logging
 
+# Configure logging
+logging.basicConfig(level=logging.INFO)
 
-def gen_query(inputs):
-    """generate query """
-    keywords = ['"' + i.strip() + '"' for i in inputs]
-    site = "site:linkedin.com/in/"
-    query = " ".join(keywords) + " " + site
+def generate_query(keywords: List[str]) -> str:
+    """
+    Generate a Google search query to find LinkedIn profiles.
 
+    Args:
+        keywords (List[str]): List of keywords to include in the query.
+
+    Returns:
+        str: A formatted search query string.
+    """
+    quoted_keywords = [f'"{keyword.strip()}"' for keyword in keywords]
+    site_filter = "site:linkedin.com/in/"
+    query = " ".join(quoted_keywords + [site_filter])
     return query
 
 
-def google_search(query: str, n = None):
-  linkedin_urls = []
-  for j in search(query, tld="com", num=10,stop=n, pause=2):
-    linkedin_urls.append(j)
+def google_search(query: str, max_results: int = 10) -> List[str]:
+    """
+    Perform a Google search for the given query.
 
-  print(f"✅ Found {len(linkedin_urls)} LinkedIn profiles")
+    Args:
+        query (str): The search query.
+        max_results (int): Maximum number of results to retrieve.
 
-  return linkedin_urls
-
-def main():
-    
-
-if __name__ == '__main__':
-    main()
+    Returns:
+        List[str]: A list of LinkedIn profile URLs found.
+    """
+    try:
+        results = list(
+            search(query, tld="com", num=10, stop=max_results, pause=2)
+        )
+        logging.info(f"Found {len(results)} LinkedIn profiles")
+        return results
+    except Exception as e:
+        logging.error(f"Google search failed: {e}")
+        return []

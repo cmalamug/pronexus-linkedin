@@ -21,6 +21,3 @@ print("Generated Tags:")
 for tag in tagged_expert.get("tags", []):
     print("-", tag["tag"])
 
-
-which python
-

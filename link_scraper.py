@@ -56,33 +56,49 @@ def google_search(query: str, num_results: int = None) -> List[str]:
             return []
     
 # UNUSED-- API option for if webcrawling doesn't work
-def serp_api_search(url_list: List[str], api_key: str) -> List[requests.Response]:
+def serpapi_google_search(query: str, api_key: str, num_results: int = None) -> List[str]:
     """
-    Fetch LinkedIn profile data from Proxycurl API for a list of LinkedIn URLs.
+    Perform a Google search using SerpAPI for the given query.
 
     Args:
-        url_list (List[str]): A list of LinkedIn profile URLs to query.
-        api_key (str): Your Proxycurl API key for authentication.
+        query (str): The search query.
+        num_results (int): Maximum number of results to retrieve.
+        api_key (str): Your SerpAPI API key.
 
     Returns:
-        List[requests.Response]: A list of response objects from the Proxycurl API.
+        List[str]: A list of LinkedIn profile URLs found in the search results.
     """
-    headers = {'Authorization': f'Bearer {api_key}'}
-    api_endpoint = 'https://nubela.co/proxycurl/api/v2/linkedin'
-    responses = []
-
-    for link in url_list:
+    logging.info(f"Searching Google (via SerpAPI) for: {query}")
+    
+    if num_results != None:
         params = {
-            'linkedin_profile_url': link,
-            'extra': 'include',
-            'personal_contact_number': 'include',
-            'personal_email': 'include',
-            'inferred_salary': 'include',
-            'skills': 'include',
-            'use_cache': 'if-present',
-            'fallback_to_cache': 'on-error',
+            "engine": "google",
+            "q": query,
+            "api_key": api_key,
+            "num": num_results
         }
-        response = requests.get(api_endpoint, params=params, headers=headers)
-        responses.append(response)
+    else:
+        params = {
+            "engine": "google",
+            "q": query,
+            "api_key": api_key
+        }
 
-    return responses
+    try:
+        response = requests.get("https://serpapi.com/search", params=params)
+        response.raise_for_status()
+        data = response.json()
+        links = []
+
+        if "organic_results" in data:
+            for result in data["organic_results"]:
+                link = result.get("link", "")
+                if "linkedin.com/in/" in link:
+                    links.append(link)
+
+        logging.info(f"Found {len(links)} LinkedIn profiles")
+        return links
+
+    except Exception as e:
+        logging.error(f"SerpAPI search failed: {e}")
+        return []

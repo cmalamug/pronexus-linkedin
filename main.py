@@ -32,6 +32,9 @@ def extract_company_role_pairs(expert_list):
     return pairs
 
 def main():
+    ## User input version
+    # original_inputs = input("Enter keywords separated by a comma: ").split(",")
+    
     original_inputs = ['1 year', 'director', 'cornell business analytics']
     logging.info("Starting initial expert search for inputs: %s", original_inputs)
 

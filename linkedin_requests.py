@@ -9,7 +9,7 @@ import pytz
 from tag_expert import tag_expert
 from constants import constants
 # from ..utils.google_dorking import get_user_pfp, reverse_image_search
-from backend_interaction import get_from_backend, send_to_backend
+# from backend_interaction import get_from_backend, send_to_backend
 from dotenv import load_dotenv
 from typing import List, Dict, Tuple, Optional
 
@@ -28,9 +28,9 @@ def make_expert_from_linkedin(profile_url: str, user_email: str, new_request_typ
     if profile_url[:2] == "lin":
         profile_url = "https://www." + profile_url
     
-    if constants['PROJECT_ID'] is not None:
-        profiles = get_from_backend(path=f'email-project-profiles/{constants["PROJECT_ID"]}')
-        profile_ids = {profile['name']: profile['id'] for profile in profiles.get('profileTypes')}
+    # if constants['PROJECT_ID'] is not None:
+    #     profiles = get_from_backend(path=f'email-project-profiles/{constants["PROJECT_ID"]}')
+    #     profile_ids = {profile['name']: profile['id'] for profile in profiles.get('profileTypes')}
 
     api_endpoint = 'https://nubela.co/proxycurl/api/v2/linkedin'
     headers = {
@@ -81,9 +81,9 @@ def make_expert_from_linkedin(profile_url: str, user_email: str, new_request_typ
         expert['checked'] = True
         expert['linkedInLink'] = profile_url
         expert['projectId'] = constants['PROJECT_ID']
-        if constants['PROJECT_ID'] is not None:
-            profile_type_id = profile_ids.get('No Profile')
-            expert['profileTypeId'] = profile_type_id
+        # if constants['PROJECT_ID'] is not None:
+        #     profile_type_id = profile_ids.get('No Profile')
+        #     expert['profileTypeId'] = profile_type_id
         if (profile_data.get("connections") or 0) < 50:
             expert['linkedInConnectionCount'] = profile_data["connections"]
             
@@ -163,15 +163,15 @@ def make_expert_from_linkedin(profile_url: str, user_email: str, new_request_typ
         meta_expert = tag_expert(user_email=user_email, new_expert=expert.copy())
         expert['metaExpertId'] = meta_expert['id']
                 
-        send_to_backend(
-            data=expert,
-            path=f"expert/{user_email}",
-        )
+        # send_to_backend(
+        #     data=expert,
+        #     path=f"expert/{user_email}",
+        # )
 
-        send_to_backend(
-            data=jobs,
-            path=f"jobs",
-        )
+        # send_to_backend(
+        #     data=jobs,
+        #     path=f"jobs",
+        # )
             
         print('returing expert and jobs for request type true')
         return expert

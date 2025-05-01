@@ -160,8 +160,8 @@ def make_expert_from_linkedin(profile_url: str, user_email: str, new_request_typ
             return (expert, jobs) or []
 
         expert['jobs'] = jobs
-        meta_expert = tag_expert(user_email=user_email, new_expert=expert.copy())
-        expert['metaExpertId'] = meta_expert['id']
+        # meta_expert = tag_expert(user_email=user_email, new_expert=expert.copy())
+        # expert['metaExpertId'] = meta_expert['id']
                 
         # send_to_backend(
         #     data=expert,

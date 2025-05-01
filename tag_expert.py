@@ -21,8 +21,8 @@ PROXYCURL_ENDPOINT = "https://nubela.co/proxycurl/api/v2/linkedin"
 
 
 def tag_expert(user_email: str, new_expert: dict) -> dict:
-    matched_expert = identify_repeat_experts(user_email, new_expert)
-    
+    # matched_expert = identify_repeat_experts(user_email, new_expert)
+    matched_expert = None
     if matched_expert is not None:
         is_new_meta_expert = False
         # A matching expert was found.
@@ -82,7 +82,7 @@ def tag_expert(user_email: str, new_expert: dict) -> dict:
 
 
 def identify_repeat_experts(user_email: str, new_expert: dict):
-    #existing_meta_experts: dict = get_from_backend(path=f'meta-experts/{user_email}')
+    existing_meta_experts: dict = get_from_backend(path=f'meta-experts/{user_email}')
     
     # Safely get the list of meta experts
     existing_meta_experts = existing_meta_experts.get('metaExperts', [])

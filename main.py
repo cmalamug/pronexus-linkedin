@@ -36,7 +36,7 @@ def main():
     # original_inputs = input("Enter keywords separated by a comma: ").split(",")
     
     original_inputs = ['1 year', 'director', 'cornell business analytics']
-    logging.info("Starting initial expert search for inputs: %s", original_inputs)
+    print("Starting initial expert search for inputs: %s" % original_inputs)
 
     # Step 1: Initial Google Search
     query = generate_query(original_inputs)
@@ -50,22 +50,22 @@ def main():
     all_experts = []
 
     # Step 2: Scrape Initial Experts
-    logging.info("Processing initial LinkedIn profiles...")
+    print("Processing initial LinkedIn profiles...")
     for i, url in enumerate(urls):
         if url in seen_urls:
-            logging.info("Skipping duplicate URL: %s", url)
+            print("Skipping duplicate URL: %s" % url)
             continue
         seen_urls.add(url)
 
         try:
-            logging.info("Processing URL %d: %s", i + 1, url)
+            print("Processing URL %d: %s" % (i + 1, url))
             expert_data = make_expert_from_linkedin(url, USER_EMAIL, True)
             if expert_data:
                 all_experts.append(expert_data)
             else:
-                logging.warning("No data for URL: %s", url)
+                logging.warning("No data for URL: %s" % url)
         except Exception as e:
-            logging.error("Error processing URL %s: %s", url, str(e))
+            logging.error("Error processing URL %s: %s" % (url, str(e)))
 
     if not all_experts:
         logging.error("No initial expert data retrieved. Exiting.")
@@ -73,37 +73,37 @@ def main():
 
     # Step 3: Extract company/role pairs
     company_role_pairs = extract_company_role_pairs(all_experts)
-    logging.info("Extracted %d company-role pairs from experts.", len(company_role_pairs))
+    print("Extracted %d company-role pairs from experts." % len(company_role_pairs))
 
     # Step 4: Search Again Using Company/Role Pairs
-    logging.info("Starting second round of searches with company-role pairs...")
+    print("Starting second round of searches with company-role pairs...")
 
     for company, role in company_role_pairs:
         augmented_inputs = original_inputs + [company, role]
         second_query = generate_query(augmented_inputs)
-        logging.info("Searching with query: %s", second_query)
+        print("Searching with query: %s", second_query)
 
         new_urls = google_search(second_query)
 
         if not new_urls:
-            logging.warning("No new URLs found for query: %s", second_query)
+            logging.warning("No new URLs found for query: %s" % second_query)
             continue
 
         for url in new_urls:
             if url in seen_urls:
-                logging.info("Skipping duplicate URL: %s", url)
+                print("Skipping duplicate URL: %s" % url)
                 continue
             seen_urls.add(url)
 
             try:
-                logging.info("Processing new URL: %s", url)
+                print("Processing new URL: %s" % url)
                 expert_data = make_expert_from_linkedin(url, USER_EMAIL, True)
                 if expert_data:
                     all_experts.append(expert_data)
                 else:
-                    logging.warning("No data for URL: %s", url)
+                    logging.warning("No data for URL: %s" % url)
             except Exception as e:
-                logging.error("Error processing URL %s: %s", url, str(e))
+                logging.error("Error processing URL %s: %s" % (url, str(e)))
 
         # Pause
         time.sleep(2)
@@ -113,9 +113,9 @@ def main():
         expert_df = pd.DataFrame(all_experts)
         output_file = gen_file_name(original_inputs, len(all_experts))
         expert_df.to_csv(output_file, index=False)
-        logging.info("Exported %d expert records to '%s'", len(all_experts), output_file)
+        print("Exported %d expert records to '%s'" % (len(all_experts), output_file))
     except Exception as e:
-        logging.exception("Failed to export expert data: %s", str(e))
+        logging.exception("Failed to export expert data: %s" % str(e))
 
 
 if __name__ == '__main__':

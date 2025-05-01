@@ -32,7 +32,7 @@ def tag_expert(user_email: str, new_expert: dict) -> dict:
             matched_expert['linkedinlink'] = new_expert['linkedinlink']
             matched_expert['jobs'] = new_expert.get('jobs', [])
             matched_expert = further_processing(matched_expert)
-            update_in_backend(data=matched_expert, path=f"meta-expert/{user_email}")
+            # update_in_backend(data=matched_expert, path=f"meta-expert/{user_email}")
     else:
         is_new_meta_expert = True
         # Scenario 1: No matching expert was found.
@@ -59,7 +59,7 @@ def tag_expert(user_email: str, new_expert: dict) -> dict:
         new_meta_expert['jobs'] = None
         new_meta_expert = further_processing(new_meta_expert)
         print("New meta expert:", new_meta_expert)
-        send_to_backend(data=new_meta_expert, path=f"meta-expert/{user_email}")
+       # send_to_backend(data=new_meta_expert, path=f"meta-expert/{user_email}")
         for job in jobs:
             job['expertId'] = None
             job['metaExpertId'] = new_meta_expert['id']
@@ -76,13 +76,13 @@ def tag_expert(user_email: str, new_expert: dict) -> dict:
         
     tags = generate_expert_tags(matched_expert)
     if tags:
-        send_to_backend(data=tags, path=f"meta-expert-tags/{matched_expert.get('id')}")
+        #send_to_backend(data=tags, path=f"meta-expert-tags/{matched_expert.get('id')}")
         matched_expert['tags'] = tags
     return matched_expert, is_new_meta_expert
 
 
 def identify_repeat_experts(user_email: str, new_expert: dict):
-    existing_meta_experts: dict = get_from_backend(path=f'meta-experts/{user_email}')
+    #existing_meta_experts: dict = get_from_backend(path=f'meta-experts/{user_email}')
     
     # Safely get the list of meta experts
     existing_meta_experts = existing_meta_experts.get('metaExperts', [])

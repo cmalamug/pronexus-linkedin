@@ -16,6 +16,7 @@ from typing import List, Dict, Tuple, Optional
 if os.getenv('FLASK_ENV') != 'production':
     load_dotenv()
 
+load_dotenv(dotenv_path=".env")
 api_key = os.getenv('PROXYCURL_API_KEY')
 
 def make_expert_from_linkedin(profile_url: str, user_email: str, new_request_type: bool):
